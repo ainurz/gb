@@ -44,7 +44,6 @@ public class mainClass9 {
                     Lesson09.MyArrayDataException except = new Lesson09.MyArrayDataException(i, 1);
                 } catch (ArrayIndexOutOfBoundsException e) {
                     Lesson09.MyArrayDataException except = new Lesson09.MyArrayDataException(i, 1);
-                    //e.printStackTrace();
                 }//try
 
 
